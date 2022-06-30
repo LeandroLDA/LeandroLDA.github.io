@@ -1,0 +1,23 @@
+p{
+    color: Black;
+    size:12px;
+    font-family: 'Courier New', Courier, monospace;
+    align-self: start;
+    text-align: justify;
+}
+img{
+    width: 25%;
+    height: auto;
+    border: green;
+    border-width: 1;
+    border-radius: 100%;
+    align: center;
+
+}
+h1{
+    color: rgb(7, 104, 23);
+    size:24px;
+    font-family: 'arial', sans-serif;
+    align-self: start;
+    text-align: center;
+}
