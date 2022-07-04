@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(95, 95, 95);
+    background-color: rgb(165, 247, 162);
     padding: 40px;
 }
 
@@ -12,16 +12,16 @@ ul{
 
 
 p{
-    color: white;
+    color: rgb(61, 2, 2);
     size:12px;
     font-family: 'Courier New', Courier, monospace;
     align-self: start;
     text-align: justify;
 }
 img{
-    width: 200px;
-    height: 200px;
-    border: 5px solid rgba(0, 0, 255, 0.438);
+    width: 180px;
+    height: 180px;
+    border: 5px solid rgba(241, 61, 6, 0.438);
     border-radius: 50%;
     align: center;
 
